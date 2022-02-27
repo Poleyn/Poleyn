@@ -58,7 +58,7 @@
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Poleyn.poleyn)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Poleyn.poleyn&left_color=yellow&right_color=black)](#)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
