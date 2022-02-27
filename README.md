@@ -1,8 +1,69 @@
-- 👋 Hi, I’m @Poleyn
-- 👀 I’m interested in Coding, Photo Editing, Game dev.
-- 🌱 I’m currently learning C lang
-- 📫 How to reach me: Poleyn#3199
+## Mustafa Eray Aydın
+ [![Twitter Follow](https://img.shields.io/twitter/follow/eriidin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feriidin&screen_name=eriidin)
 
-<!---
-Hello! :)
---->
+
+<table class="center">
+
+<tr>
+  <td><a href="https://www.youtube.com/channel/UCswfdRZaQ96MwTqHFLRRsIg">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a> 
+<td><a href="https://twitch.tv/poleyn">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
+<td><a href="https://discordapp.com/users/632569336980045824">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> </tr>
+  <tr>
+<td><a href="https://instagram.com/meriidinn">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a> 
+<td><a href="https://twitter.com/eriidin">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<td><a href="https://github.com/poleyn">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a> </tr>
+  <tr>
+<td><a href="https://www.linkedin.com/in/mustafa-eray-ayd%C4%B1n-477b2822a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<td><a href="mailto:mustafaerayaydin06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+  </tr>
+</table>
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Godot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Gimp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#)
+
+
+
+
+<br />
+<br />
+
+---
+
+<a href="https://github.com/Poleyn/Poleyn"> ❓ BEN KİMİM ❓ </a>
+<br></br>
+
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Poleyn.poleyn)](#)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Poleyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Poleyn&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
