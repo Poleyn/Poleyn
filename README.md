@@ -54,7 +54,7 @@
 
 ---
 
-<a href="https://github.com/Poleyn/Poleyn"> ❓ BEN KİMİM ❓ </a>
+<a href="https://poleyn.github.io/aboutme/"> ❓ BEN KİMİM ❓ </a>
 <br></br>
 
 
