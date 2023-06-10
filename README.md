@@ -12,14 +12,14 @@
 <td><a href="https://discordapp.com/users/632569336980045824">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 
-<td><a href="https://instagram.com/poleyn5337">
+[//]: # (<td><a href="https://instagram.com/poleyn5337">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
 
 
 <td><a href="https://www.linkedin.com/in/mustafaerayaydin/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
+</a> )
 <td><a href="mailto:poleynn@protonmail.com">
 <img src="https://img.shields.io/badge/Mail-9146FF?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
